@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock_quantity,supplier_country
+101,Laptop Pro,Electronics,1299.99,45,USA
+102,USB-C Cable,Electronics,19.99,150,China
+103,Wireless Mouse,Electronics,29.99,200,Taiwan
+104,Monitor 4K,Electronics,449.99,30,South Korea
+105,Mechanical Keyboard,Electronics,129.99,80,China
+106,Office Chair,Furniture,199.99,25,USA
+107,Standing Desk,Furniture,599.99,15,USA
+108,Desk Lamp,Furniture,49.99,60,Germany
+109,File Cabinet,Furniture,149.99,35,USA
+110,Bookshelf,Furniture,89.99,50,Vietnam
+111,Coffee Maker,Appliances,99.99,40,Japan
+112,Microwave,Appliances,149.99,25,Mexico
+113,Blender,Appliances,79.99,55,USA
+114,Toaster,Appliances,39.99,100,China
+115,Water Cooler,Appliances,249.99,12,USA

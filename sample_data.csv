@@ -1,0 +1,16 @@
+id,name,age,country,salary,department
+1,Alice Johnson,32,USA,65000,Engineering
+2,Bob Smith,28,Canada,55000,Sales
+3,Carol White,35,USA,72000,Engineering
+4,David Brown,29,UK,58000,Marketing
+5,Eve Davis,31,USA,68000,Engineering
+6,Frank Miller,26,Canada,52000,Sales
+7,Grace Lee,34,USA,71000,Finance
+8,Henry Wilson,30,UK,61000,Engineering
+9,Iris Martinez,27,Canada,54000,Marketing
+10,Jack Taylor,33,USA,69000,Finance
+11,Karen Anderson,28,USA,56000,Sales
+12,Leo Thomas,36,UK,75000,Engineering
+13,Maria Garcia,25,Canada,50000,Sales
+14,Nathan Jones,31,USA,66000,Marketing
+15,Olivia Rodriguez,29,UK,59000,Finance
